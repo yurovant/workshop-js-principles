@@ -1,3 +1,3 @@
 # Workshop JavaScript Principles
 
-[Presentation](http://www.vzhurudolu.cz/kurzy/javascript).
+[Presentation](http://www.vzhurudolu.cz/kurzy/javascript)
