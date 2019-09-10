@@ -1,3 +1,3 @@
-# Princípy JavaScriptu
+# Workshop JavaScript Principles
 
-Podklady k školeniu [Princípy JavaScriptu](http://www.vzhurudolu.cz/kurzy/javascript).
+[Presentation](http://www.vzhurudolu.cz/kurzy/javascript).
