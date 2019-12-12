@@ -1,1 +1,3 @@
-### Workshop JavaScript Principles
+### JavaScript Principles Workshop
+
+----
